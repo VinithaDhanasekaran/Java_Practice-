@@ -1,5 +1,3 @@
-# Java_Practice-
-Crazy-Learning
 class FactorialUsingRecursion
 {  
 	static int factorial(int n)
