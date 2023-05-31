@@ -7,8 +7,7 @@ class FactorialUsingRecursion
   		else    
     			return(n * factorial(n-1));    
 	}   
- 
- 	public static void main(String args[])
+        public static void main(String args[])
 	{  
   		int result=1;  
   		int number=4;//It is the number to calculate factorial    
